@@ -4,9 +4,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20Welcome!%20&&animation=blink)
 
-[!['s github stats](https://github-readme-stats.vercel.app/api?username=JizeroK&show_icons=true&theme=radical)](https://github.com/JizeroK)
+[!['s github stats](https://github-readme-stats.vercel.app/api?username=chominsoo4245&show_icons=true&theme=radical)](https://github.com/chominsoo4245)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JizeroK)](https://github.com/JizeroK/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chominsoo4245)](https://github.com/chominsoo4245/github-readme-stats)
 
 
 ![자바](https://img.shields.io/badge/-자바-007396?style=for-the-badge&logo=Java&logoColor=ffffff)
