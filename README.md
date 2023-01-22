@@ -1,5 +1,4 @@
-<!--<image src='image/불꽃.gif' width =200 height=200/>-->
-<!--[!['s github stats](https://github-readme-stats.vercel.app/api?username=JizeroK)](https://github.com/KimJiiYeong)--%3E
+
 
 <div align="center">
 
